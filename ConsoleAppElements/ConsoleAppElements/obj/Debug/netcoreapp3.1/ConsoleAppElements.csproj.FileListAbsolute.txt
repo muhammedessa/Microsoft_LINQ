@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\bin\Debug\netcoreapp3.1\ConsoleAppElements.exe
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\bin\Debug\netcoreapp3.1\ConsoleAppElements.deps.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\bin\Debug\netcoreapp3.1\ConsoleAppElements.runtimeconfig.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\bin\Debug\netcoreapp3.1\ConsoleAppElements.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\bin\Debug\netcoreapp3.1\ConsoleAppElements.dll
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\bin\Debug\netcoreapp3.1\ConsoleAppElements.pdb
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\obj\Debug\netcoreapp3.1\ConsoleAppElements.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\obj\Debug\netcoreapp3.1\ConsoleAppElements.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\obj\Debug\netcoreapp3.1\ConsoleAppElements.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\obj\Debug\netcoreapp3.1\ConsoleAppElements.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\obj\Debug\netcoreapp3.1\ConsoleAppElements.dll
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\obj\Debug\netcoreapp3.1\ConsoleAppElements.pdb
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppElements\ConsoleAppElements\obj\Debug\netcoreapp3.1\ConsoleAppElements.genruntimeconfig.cache

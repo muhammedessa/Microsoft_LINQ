@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfAppLinq.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppLinq"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="datagridView1" HorizontalAlignment="Left" Height="316" Margin="66,44,0,0" VerticalAlignment="Top" Width="464"/>
+        <Label Content="Insert data" HorizontalAlignment="Left" Margin="608,44,0,0" VerticalAlignment="Top" Width="139"/>
+        <TextBox x:Name="firstNameText" HorizontalAlignment="Left" Height="23" Margin="608,75,0,0" TextWrapping="Wrap" Text="First name" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="lastNameText" HorizontalAlignment="Left" Height="23" Margin="608,116,0,0" TextWrapping="Wrap" Text="Last Name" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="SaveData" Content="Save" HorizontalAlignment="Left" Margin="608,161,0,0" VerticalAlignment="Top" Width="74" Click="ClickToSaveData"/>
+
+    </Grid>
+</Window>

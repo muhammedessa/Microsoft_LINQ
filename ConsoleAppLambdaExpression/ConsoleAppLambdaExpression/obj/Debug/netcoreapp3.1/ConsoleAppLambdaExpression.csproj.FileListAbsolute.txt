@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\bin\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.exe
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\bin\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.deps.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\bin\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.runtimeconfig.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\bin\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\bin\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.dll
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\bin\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.pdb
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\obj\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\obj\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\obj\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\obj\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\obj\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.dll
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\obj\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.pdb
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppLambdaExpression\ConsoleAppLambdaExpression\obj\Debug\netcoreapp3.1\ConsoleAppLambdaExpression.genruntimeconfig.cache

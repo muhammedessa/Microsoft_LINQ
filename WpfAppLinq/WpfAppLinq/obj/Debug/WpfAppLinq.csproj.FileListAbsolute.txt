@@ -1,0 +1,15 @@
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\bin\Debug\WpfAppLinq.exe.config
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\bin\Debug\WpfAppLinq.exe
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\bin\Debug\WpfAppLinq.pdb
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq.csprojAssemblyReference.cache
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\MainWindow.g.cs
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\App.g.cs
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq_MarkupCompile.cache
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq_MarkupCompile.lref
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\MainWindow.baml
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq.g.resources
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq.Properties.Resources.resources
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq.exe
+C:\Users\muhammed\Desktop\linqTutorials\WpfAppLinq\WpfAppLinq\obj\Debug\WpfAppLinq.pdb

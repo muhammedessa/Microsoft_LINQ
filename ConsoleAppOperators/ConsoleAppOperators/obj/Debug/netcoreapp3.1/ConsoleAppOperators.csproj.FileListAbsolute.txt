@@ -1,0 +1,13 @@
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\bin\Debug\netcoreapp3.1\ConsoleAppOperators.exe
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\bin\Debug\netcoreapp3.1\ConsoleAppOperators.deps.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\bin\Debug\netcoreapp3.1\ConsoleAppOperators.runtimeconfig.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\bin\Debug\netcoreapp3.1\ConsoleAppOperators.runtimeconfig.dev.json
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\bin\Debug\netcoreapp3.1\ConsoleAppOperators.dll
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\bin\Debug\netcoreapp3.1\ConsoleAppOperators.pdb
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\obj\Debug\netcoreapp3.1\ConsoleAppOperators.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\obj\Debug\netcoreapp3.1\ConsoleAppOperators.AssemblyInfoInputs.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\obj\Debug\netcoreapp3.1\ConsoleAppOperators.AssemblyInfo.cs
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\obj\Debug\netcoreapp3.1\ConsoleAppOperators.dll
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\obj\Debug\netcoreapp3.1\ConsoleAppOperators.pdb
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\obj\Debug\netcoreapp3.1\ConsoleAppOperators.genruntimeconfig.cache
+C:\Users\muhammed\Desktop\linqTutorials\ConsoleAppOperators\ConsoleAppOperators\obj\Debug\netcoreapp3.1\ConsoleAppOperators.csprojAssemblyReference.cache
